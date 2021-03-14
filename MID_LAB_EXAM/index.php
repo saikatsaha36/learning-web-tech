@@ -1,5 +1,5 @@
 <?php
    
-    header('location: view/index.html');
+    header('location: view/registration.html');
 
 ?>
